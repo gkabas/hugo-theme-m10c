@@ -1,4 +1,4 @@
-baseURL = "https://example.com"
+baseURL = "https://gazikabas.netlify.app/"
 title = "Your title"
 themesDir = "../.."
 theme = "m10c"
@@ -22,8 +22,8 @@ paginate = 8
     weight = 3
 
 [params]
-  author = "John Doe"
-  description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+  author = "Gazi Kabas"
+  description = "Personal webpage of Gazi Kabas."
   menu_item_separator = " - "
   [[params.social]]
     icon = "github"
